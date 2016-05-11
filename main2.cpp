@@ -7,6 +7,6 @@ using namespace std;
 
 int main(int argc, char *argv[])
 {
-	cout<<"¼ÓÓÍ£¬ÏÄæ÷"<<endl;
+	cout<<"加油，OK"<<endl;
 	return 0;
 }
